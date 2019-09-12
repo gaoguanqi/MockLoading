@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--loading 58 view-->
+    <color name="color_background">#ffffffff</color>
+    <color name="shadow">#25808080</color>
+    <color name="triangle">#aa72d572</color>
+    <color name="circle">#aa738ffe</color>
+    <color name="rect">#aae84e40</color>
+    <color name="trans">@android:color/transparent</color>
+</resources>

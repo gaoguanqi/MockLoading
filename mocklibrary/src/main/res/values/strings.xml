@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MockLibrary</string>
+    <string name="mock_loading">请稍候…</string>
+</resources>
